@@ -1,0 +1,19 @@
+{
+  "name": "node-lsusb",
+  "version": "0.0.1",
+  "description": "Reimplementation of lsusb in Node.js.",
+  "main": "index.js",
+  "bin": {
+    "node-lsusb": "index.js"
+  },
+  "dependencies": {
+    "usb": "~0.3.5",
+    "async": "~0.6.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
