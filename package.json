@@ -1,8 +1,9 @@
 {
-  "name": "node-lsusb",
+  "name": "lsusb",
   "version": "0.0.1",
   "description": "Reimplementation of lsusb in Node.js.",
   "main": "index.js",
+  "repository": "https://github.com/tcr/node-lsusb",
   "bin": {
     "node-lsusb": "index.js"
   },
