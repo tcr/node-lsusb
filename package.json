@@ -1,6 +1,6 @@
 {
   "name": "lsusb",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Reimplementation of lsusb in Node.js.",
   "main": "index.js",
   "repository": "https://github.com/tcr/node-lsusb",
@@ -8,7 +8,7 @@
     "node-lsusb": "index.js"
   },
   "dependencies": {
-    "usb": "~0.3.5",
+    "usb": "^1.2.0",
     "async": "~0.6.2"
   },
   "devDependencies": {},

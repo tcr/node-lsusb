@@ -1,6 +1,6 @@
-# node-lsusb 
+# node-lsusb
 
-A reimplementation of lsusb for Node (especially for OS X)
+A reimplementation of `lsusb` in Node.
 
 ```
 npm install lsusb -g
@@ -12,6 +12,6 @@ then
 $ node-lsusb
 ```
 
-## license
+## License
 
-MIT
+MIT or Apache-2.0, at your option.
